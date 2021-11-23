@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/passionnhope0110@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Jenny H-0A66C2?style=flat-square&logo=linkedIn&logoColor=white"/> <img src="https://img.shields.io/badge/jennysh.hong-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 
-### Hi there 👋 I am Jenny Hong
+### 웹 백엔드 개발자가 되고 싶은 나는 '김정호'
 Recently, I have finished some projects through Node.js and I prefer to learn and develop with the language deeply.
 I am currently looking for company to work.
 
