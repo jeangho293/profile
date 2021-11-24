@@ -1,8 +1,7 @@
 <img src="https://img.shields.io/badge/jeangho293@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
 
 ### 웹 백엔드 개발자가 되고 싶은 나는 '김정호'
-Recently, I have finished some projects through Node.js and I prefer to learn and develop with the language deeply.
-I am currently looking for company to work.
+
 
 
 ## My Languages Skill
