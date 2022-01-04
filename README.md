@@ -17,10 +17,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeangho293&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeangho293&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jeangho900)](https://solved.ac/jeangho900)
 
