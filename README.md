@@ -2,8 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeangho293&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/jeangho293@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
-
 ## Introduce
 
 안녕하세요. 클린 코드 및 아키텍쳐에 대해 관심이 많은 웹 개발자입니다.
@@ -11,6 +9,9 @@
 자료구조, 알고리즘을 좋아하고 가독성이 높은 refactoring을 작업을 선호합니다.
 
 현재 관심을 가지고 있는 것은 **DDD**(Domain Development Design)과 **TDD**(Test-Driven-Development)입니다.
+
+connect to me: <img src="https://img.shields.io/badge/jeangho293@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
+
 
 ## My Stack
 - basic
