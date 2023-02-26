@@ -7,6 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeangho293&layout=compact&theme=dark)  
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHS95&show_icons=true&theme=dark) -->
 
+- 부트캠프(항해99) 기술매니저 멘토링 활동(2022-08 ~ 진행중)
 - 4th 패스핵 메이커톤 스폰서상 수상 (2023-02-25)
 
 
