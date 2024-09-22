@@ -8,7 +8,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHS95&show_icons=true&theme=dark) -->
 
 - EcubeLabs (2022.02 ~ 2022.08, 2023.03 ~ 2024.06.07)
-- 부트캠프(항해99) 기술매니저 멘토링 활동(2022-08 ~ 진행중)
+- 부트캠프(항해99) 기술매니저 멘토링 활동(2022-08 ~ 2022-12)
 - 4th 패스핵 메이커톤 스폰서상 수상 (2023-02-25)
 
 
